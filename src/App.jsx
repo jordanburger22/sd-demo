@@ -20,7 +20,7 @@ function App() {
     year: 2000
   })
 
-  const colors = ['red', 'blue', 'green']
+  const colors = ['red', 'blue', 'green', 'yellow']
 
   const colorElements = colors.map(color => <Form />)
 
